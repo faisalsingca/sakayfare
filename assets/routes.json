@@ -1,0 +1,28 @@
+{
+  "routes": [
+    {
+      "id": "route_01",
+      "name": "Route 01 (Demo)",
+      "start": "Bankerohan",
+      "end": "Ecoland",
+      "coordinates": [
+        { "lat": 7.0644, "lng": 125.6079 },
+        { "lat": 7.0610, "lng": 125.6055 },
+        { "lat": 7.0580, "lng": 125.6020 },
+        { "lat": 7.0550, "lng": 125.5990 }
+      ]
+    },
+    {
+      "id": "route_02",
+      "name": "Route 02 (Demo)",
+      "start": "Agdao",
+      "end": "Matina",
+      "coordinates": [
+        { "lat": 7.0850, "lng": 125.6180 },
+        { "lat": 7.0800, "lng": 125.6120 },
+        { "lat": 7.0750, "lng": 125.6060 },
+        { "lat": 7.0700, "lng": 125.6000 }
+      ]
+    }
+  ]
+}
